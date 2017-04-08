@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+/dist/
+/bin/
+node_modules
+
+client_secret.json
