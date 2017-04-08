@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/clouddaemon/mail.google.git"
+    "url": "git+ssh://git@github.com:AbrahamTewa/GoogleAppsScriptManager.git"
   },
   "author": "Abraham TEWA",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/clouddaemon/mail.google#readme",
+  "homepage": "https://github.com/AbrahamTewa/GoogleAppsScriptManager",
   "devDependencies": {
     "babel-cli": "^6.10.1",
     "babel-core": "^6.24.0",
